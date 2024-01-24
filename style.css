@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;    
+}
+
+.order1 {
+    height: 80vh;
+    background-image: url("boki.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.disorder1 {
+    text-align: center;
+    width: 60%;
+}
+
+.disorder1 h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;        
+    color: azure;
+    margin-bottom: 50px;
+}
+
+.disorder1 p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px; 
+    color: azure;
+    margin-top: 10px;
+}
+
+.disorder2 {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.disorder2 img {
+    border-radius: 50%;
+    margin-top: 60px;
+}
+
+.unorder1 {
+    color: gray;        
+    font-family: 'Times New Roman', Times, serif;  
+    text-align: center;    
+}
+
+.unorder1 h2 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.unorder1 p {
+    margin: 30px ;        
+}
+
+.border {
+    border: 0.5px solid gray
+}
+
+.unorder3 {
+    color: gray;        
+    font-family: 'Times New Roman', Times, serif; 
+    width: 100%;
+}
+
+.unorder3 h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.unorder3 .mountainpeace {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.unorder3 .mountainpeace p {
+    width: 500px;
+}
+
+.unorder3 .mountainpeace2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.unorder3 .mountainpeace2 p {
+    width: 500px;
+}
+
+.unorder4 h2 {
+    text-align: center;
+    font-size: 40px;
+    color: gray;        
+    font-family: 'Times New Roman', Times, serif; 
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.unorder4 p {
+    text-align: center;
+    color: gray;
+    font-size: 25px;
+}
+
+.unorder4 .mountainpeace3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.unorder4 button {
+    border-radius: 20%;
+    border: none;
+    padding: 20px;
+    background-color: green;
+    font-size: 20px;
+    color: aliceblue;
+    margin-bottom: 20px;
+
+}
+
+.unorder5 .mountainpeace4 {
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    background-color: green;
+    float: right;
+    padding: 30px;
+}
+
+.border2 {
+    border: 1px solid gray;
+}
